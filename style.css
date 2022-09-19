@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+.heading{
+font: 23px;
+width: 100%;
+box-shadow: 5px 5px rgb(30, 120, 7);
+font-family: cursive;
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(5, 111, 120);
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(79, 155, 74);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 111, 109);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas{
+    border:5px solid aliceblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 91, 23);   
+}
